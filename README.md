@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm shiqocred! 👋
 
-<!--
-**shiqocred/shiqocred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A high-tech redneck building things from the backyard.**
 
-Here are some ideas to get you started:
+*Just a village soul who loves to tinker. No skyscrapers needed to build something great—just a stable ping and a warm cup of coffee on the porch.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What’s in my shed?
+
+![My Skills](https://skillicons.dev/icons?i=typescript,javascript,html,css,tailwindcss,php,laravel,react,vite,nextjs,docker)
+
+---
+
+### 🧪 Currently brewing in the backyard
+
+![My Skills](https://skillicons.dev/icons?i=rust,actix,rocket)
+
+---
+
+### 🏡 Swing by my backyard
+
+[![My Backyard](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sro.miftah) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/IsroMiftahudin)
+
+
+![Snake animation](https://raw.githubusercontent.com/shiqocred/shiqocred/output/snake.svg)
