@@ -14,7 +14,7 @@
 
 ### 🧪 Currently brewing in the backyard
 
-![My Skills](https://skillicons.dev/icons?i=rust,actix,rocket)
+![My Skills](https://skillicons.dev/icons?i=rust,actix,rocket,go)
 
 ---
 
