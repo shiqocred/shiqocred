@@ -8,13 +8,13 @@
 
 ### 🛠️ What’s in my shed?
 
-![My Skills](https://skillicons.dev/icons?i=typescript,javascript,html,css,tailwindcss,php,laravel,react,vite,nextjs,docker)
+![My Skills](https://skillicons.dev/icons?i=typescript,javascript,html,css,tailwindcss,php,laravel,react,vite,nextjs,docker,go)
 
 ---
 
 ### 🧪 Currently brewing in the backyard
 
-![My Skills](https://skillicons.dev/icons?i=rust,actix,rocket,go)
+![My Skills](https://skillicons.dev/icons?i=rust,actix,rocket)
 
 ---
 
